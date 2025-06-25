@@ -8,7 +8,7 @@ Welcome to my personal responsive portfolio website, built using HTML and CSS. T
 
 🔗 Live Preview
 
-https://vishnupriyakannan.github.io/portfolio
+https://vishnupriya-kannan.github.io/Portfolio/
 
 
 ---
