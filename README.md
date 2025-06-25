@@ -59,8 +59,10 @@ Footer – Copyright
 
 Feel free to reach out for collaborations, projects, or networking!
 
-Email: tkvishnupriya2006@gmail.com
-GitHub: github.com/Vishnupriya-Kannan
+Email:
+tkvishnupriya2006@gmail.com
+GitHub: 
+github.com/Vishnupriya-Kannan
 
 
 ---
